@@ -7,7 +7,11 @@
     "releaseYear": 2020,
     "launchPriceUSD": 799,
     "refurbishedPriceUSD": 260,
-    "tradeInBrokenUSD": { "screen": 70, "battery": 110, "other": 45 },
+    "tradeInBrokenUSD": {
+      "screen": 70,
+      "battery": 110,
+      "other": 45
+    },
     "supportEndYear": 2027,
     "successorId": "iphone-13",
     "notes": ""
@@ -20,7 +24,11 @@
     "releaseYear": 2021,
     "launchPriceUSD": 799,
     "refurbishedPriceUSD": 310,
-    "tradeInBrokenUSD": { "screen": 90, "battery": 140, "other": 60 },
+    "tradeInBrokenUSD": {
+      "screen": 90,
+      "battery": 140,
+      "other": 60
+    },
     "supportEndYear": 2028,
     "successorId": "iphone-14",
     "notes": ""
@@ -33,7 +41,11 @@
     "releaseYear": 2022,
     "launchPriceUSD": 799,
     "refurbishedPriceUSD": 400,
-    "tradeInBrokenUSD": { "screen": 110, "battery": 170, "other": 75 },
+    "tradeInBrokenUSD": {
+      "screen": 110,
+      "battery": 170,
+      "other": 75
+    },
     "supportEndYear": 2029,
     "successorId": "iphone-15",
     "notes": ""
@@ -46,7 +58,11 @@
     "releaseYear": 2023,
     "launchPriceUSD": 799,
     "refurbishedPriceUSD": 520,
-    "tradeInBrokenUSD": { "screen": 150, "battery": 220, "other": 100 },
+    "tradeInBrokenUSD": {
+      "screen": 150,
+      "battery": 220,
+      "other": 100
+    },
     "supportEndYear": 2030,
     "successorId": null,
     "notes": "USB-C charging port; parts availability still maturing."
@@ -59,7 +75,11 @@
     "releaseYear": 2021,
     "launchPriceUSD": 799,
     "refurbishedPriceUSD": 230,
-    "tradeInBrokenUSD": { "screen": 60, "battery": 95, "other": 40 },
+    "tradeInBrokenUSD": {
+      "screen": 60,
+      "battery": 95,
+      "other": 40
+    },
     "supportEndYear": 2025,
     "successorId": "galaxy-s23",
     "notes": "Samsung promised 4 years of OS + security updates from launch."
@@ -72,7 +92,11 @@
     "releaseYear": 2023,
     "launchPriceUSD": 799,
     "refurbishedPriceUSD": 420,
-    "tradeInBrokenUSD": { "screen": 120, "battery": 170, "other": 80 },
+    "tradeInBrokenUSD": {
+      "screen": 120,
+      "battery": 170,
+      "other": 80
+    },
     "supportEndYear": 2031,
     "successorId": null,
     "notes": "Samsung promises 4 OS + 5 years security updates from launch."
@@ -85,7 +109,11 @@
     "releaseYear": 2022,
     "launchPriceUSD": 599,
     "refurbishedPriceUSD": 250,
-    "tradeInBrokenUSD": { "screen": 70, "battery": 100, "other": 45 },
+    "tradeInBrokenUSD": {
+      "screen": 70,
+      "battery": 100,
+      "other": 45
+    },
     "supportEndYear": 2027,
     "successorId": "pixel-8",
     "notes": ""
@@ -98,7 +126,11 @@
     "releaseYear": 2023,
     "launchPriceUSD": 699,
     "refurbishedPriceUSD": 360,
-    "tradeInBrokenUSD": { "screen": 100, "battery": 150, "other": 70 },
+    "tradeInBrokenUSD": {
+      "screen": 100,
+      "battery": 150,
+      "other": 70
+    },
     "supportEndYear": 2030,
     "successorId": null,
     "notes": "Google promises 7 years of OS + security updates from launch."
@@ -111,7 +143,11 @@
     "releaseYear": 2020,
     "launchPriceUSD": 999,
     "refurbishedPriceUSD": 520,
-    "tradeInBrokenUSD": { "screen": 160, "battery": 260, "other": 120 },
+    "tradeInBrokenUSD": {
+      "screen": 160,
+      "battery": 260,
+      "other": 120
+    },
     "supportEndYear": 2028,
     "successorId": null,
     "notes": "Fanless; still very capable. Battery replacement is glued and non-trivial."
@@ -124,7 +160,11 @@
     "releaseYear": 2021,
     "launchPriceUSD": 1999,
     "refurbishedPriceUSD": 1050,
-    "tradeInBrokenUSD": { "screen": 320, "battery": 520, "other": 240 },
+    "tradeInBrokenUSD": {
+      "screen": 320,
+      "battery": 520,
+      "other": 240
+    },
     "supportEndYear": 2029,
     "successorId": null,
     "notes": "M1 Pro/Max. High refurbished value keeps most repairs worthwhile."
@@ -137,7 +177,11 @@
     "releaseYear": 2021,
     "launchPriceUSD": 1699,
     "refurbishedPriceUSD": 560,
-    "tradeInBrokenUSD": { "screen": 150, "battery": 250, "other": 110 },
+    "tradeInBrokenUSD": {
+      "screen": 150,
+      "battery": 250,
+      "other": 110
+    },
     "supportEndYear": 2029,
     "successorId": null,
     "notes": "Excellent repairability and parts availability; Windows 11 supported."
@@ -150,9 +194,353 @@
     "releaseYear": 2020,
     "launchPriceUSD": 1249,
     "refurbishedPriceUSD": 440,
-    "tradeInBrokenUSD": { "screen": 120, "battery": 200, "other": 90 },
+    "tradeInBrokenUSD": {
+      "screen": 120,
+      "battery": 200,
+      "other": 90
+    },
     "supportEndYear": 2028,
     "successorId": null,
     "notes": ""
+  },
+  {
+    "id": "iphone-11",
+    "category": "phone",
+    "brand": "Apple",
+    "name": "iPhone 11",
+    "releaseYear": 2019,
+    "launchPriceUSD": 699,
+    "refurbishedPriceUSD": 175,
+    "tradeInBrokenUSD": {
+      "screen": 50,
+      "battery": 75,
+      "other": 35
+    },
+    "supportEndYear": 2026,
+    "successorId": "iphone-12",
+    "notes": ""
+  },
+  {
+    "id": "iphone-15-pro",
+    "category": "phone",
+    "brand": "Apple",
+    "name": "iPhone 15 Pro",
+    "releaseYear": 2023,
+    "launchPriceUSD": 999,
+    "refurbishedPriceUSD": 620,
+    "tradeInBrokenUSD": {
+      "screen": 175,
+      "battery": 265,
+      "other": 120
+    },
+    "supportEndYear": 2030,
+    "successorId": null,
+    "notes": ""
+  },
+  {
+    "id": "iphone-16",
+    "category": "phone",
+    "brand": "Apple",
+    "name": "iPhone 16",
+    "releaseYear": 2024,
+    "launchPriceUSD": 799,
+    "refurbishedPriceUSD": 500,
+    "tradeInBrokenUSD": {
+      "screen": 140,
+      "battery": 215,
+      "other": 95
+    },
+    "supportEndYear": 2031,
+    "successorId": null,
+    "notes": ""
+  },
+  {
+    "id": "iphone-16-pro",
+    "category": "phone",
+    "brand": "Apple",
+    "name": "iPhone 16 Pro",
+    "releaseYear": 2024,
+    "launchPriceUSD": 999,
+    "refurbishedPriceUSD": 660,
+    "tradeInBrokenUSD": {
+      "screen": 185,
+      "battery": 285,
+      "other": 125
+    },
+    "supportEndYear": 2031,
+    "successorId": null,
+    "notes": ""
+  },
+  {
+    "id": "iphone-se-2022",
+    "category": "phone",
+    "brand": "Apple",
+    "name": "iPhone SE (2022)",
+    "releaseYear": 2022,
+    "launchPriceUSD": 429,
+    "refurbishedPriceUSD": 135,
+    "tradeInBrokenUSD": {
+      "screen": 40,
+      "battery": 60,
+      "other": 25
+    },
+    "supportEndYear": 2028,
+    "successorId": null,
+    "notes": "LCD screen keeps screen repairs cheap; small battery."
+  },
+  {
+    "id": "galaxy-s22",
+    "category": "phone",
+    "brand": "Samsung",
+    "name": "Samsung Galaxy S22",
+    "releaseYear": 2022,
+    "launchPriceUSD": 799,
+    "refurbishedPriceUSD": 245,
+    "tradeInBrokenUSD": {
+      "screen": 70,
+      "battery": 105,
+      "other": 45
+    },
+    "supportEndYear": 2027,
+    "successorId": "galaxy-s23",
+    "notes": "4 OS + 5 years security updates from launch."
+  },
+  {
+    "id": "galaxy-s24",
+    "category": "phone",
+    "brand": "Samsung",
+    "name": "Samsung Galaxy S24",
+    "releaseYear": 2024,
+    "launchPriceUSD": 799,
+    "refurbishedPriceUSD": 430,
+    "tradeInBrokenUSD": {
+      "screen": 120,
+      "battery": 185,
+      "other": 80
+    },
+    "supportEndYear": 2031,
+    "successorId": null,
+    "notes": "7 years of OS + security updates from launch."
+  },
+  {
+    "id": "galaxy-a54",
+    "category": "phone",
+    "brand": "Samsung",
+    "name": "Samsung Galaxy A54",
+    "releaseYear": 2023,
+    "launchPriceUSD": 449,
+    "refurbishedPriceUSD": 205,
+    "tradeInBrokenUSD": {
+      "screen": 55,
+      "battery": 90,
+      "other": 40
+    },
+    "supportEndYear": 2027,
+    "successorId": null,
+    "notes": "Mid-range; 4 years of security updates."
+  },
+  {
+    "id": "galaxy-z-flip-5",
+    "category": "phone",
+    "brand": "Samsung",
+    "name": "Samsung Galaxy Z Flip 5",
+    "releaseYear": 2023,
+    "launchPriceUSD": 999,
+    "refurbishedPriceUSD": 420,
+    "tradeInBrokenUSD": {
+      "screen": 120,
+      "battery": 180,
+      "other": 80
+    },
+    "supportEndYear": 2028,
+    "successorId": null,
+    "notes": "Foldable — inner-screen repairs are expensive and specialist."
+  },
+  {
+    "id": "pixel-6a",
+    "category": "phone",
+    "brand": "Google",
+    "name": "Google Pixel 6a",
+    "releaseYear": 2022,
+    "launchPriceUSD": 449,
+    "refurbishedPriceUSD": 165,
+    "tradeInBrokenUSD": {
+      "screen": 45,
+      "battery": 70,
+      "other": 30
+    },
+    "supportEndYear": 2027,
+    "successorId": null,
+    "notes": "5 years of security updates from launch."
+  },
+  {
+    "id": "pixel-9",
+    "category": "phone",
+    "brand": "Google",
+    "name": "Google Pixel 9",
+    "releaseYear": 2024,
+    "launchPriceUSD": 799,
+    "refurbishedPriceUSD": 500,
+    "tradeInBrokenUSD": {
+      "screen": 140,
+      "battery": 215,
+      "other": 95
+    },
+    "supportEndYear": 2031,
+    "successorId": null,
+    "notes": "7 years of OS + security updates from launch."
+  },
+  {
+    "id": "oneplus-12",
+    "category": "phone",
+    "brand": "OnePlus",
+    "name": "OnePlus 12",
+    "releaseYear": 2024,
+    "launchPriceUSD": 799,
+    "refurbishedPriceUSD": 450,
+    "tradeInBrokenUSD": {
+      "screen": 125,
+      "battery": 195,
+      "other": 85
+    },
+    "supportEndYear": 2028,
+    "successorId": null,
+    "notes": "4 OS + 5 years security updates."
+  },
+  {
+    "id": "nothing-phone-2",
+    "category": "phone",
+    "brand": "Nothing",
+    "name": "Nothing Phone (2)",
+    "releaseYear": 2023,
+    "launchPriceUSD": 599,
+    "refurbishedPriceUSD": 320,
+    "tradeInBrokenUSD": {
+      "screen": 90,
+      "battery": 140,
+      "other": 60
+    },
+    "supportEndYear": 2027,
+    "successorId": null,
+    "notes": "3 OS + 4 years security updates."
+  },
+  {
+    "id": "macbook-air-m2",
+    "category": "laptop",
+    "brand": "Apple",
+    "name": "MacBook Air M2 (2022)",
+    "releaseYear": 2022,
+    "launchPriceUSD": 1199,
+    "refurbishedPriceUSD": 620,
+    "tradeInBrokenUSD": {
+      "screen": 175,
+      "battery": 265,
+      "other": 120
+    },
+    "supportEndYear": 2030,
+    "successorId": null,
+    "notes": ""
+  },
+  {
+    "id": "macbook-air-m3",
+    "category": "laptop",
+    "brand": "Apple",
+    "name": "MacBook Air M3 (2024)",
+    "releaseYear": 2024,
+    "launchPriceUSD": 1099,
+    "refurbishedPriceUSD": 790,
+    "tradeInBrokenUSD": {
+      "screen": 220,
+      "battery": 340,
+      "other": 150
+    },
+    "supportEndYear": 2032,
+    "successorId": null,
+    "notes": ""
+  },
+  {
+    "id": "macbook-pro-16-2021",
+    "category": "laptop",
+    "brand": "Apple",
+    "name": "MacBook Pro 16\" (2021)",
+    "releaseYear": 2021,
+    "launchPriceUSD": 2499,
+    "refurbishedPriceUSD": 1300,
+    "tradeInBrokenUSD": {
+      "screen": 365,
+      "battery": 560,
+      "other": 245
+    },
+    "supportEndYear": 2029,
+    "successorId": null,
+    "notes": "M1 Pro/Max; high refurb value keeps most repairs worthwhile."
+  },
+  {
+    "id": "dell-xps-15-9520",
+    "category": "laptop",
+    "brand": "Dell",
+    "name": "Dell XPS 15 (9520)",
+    "releaseYear": 2022,
+    "launchPriceUSD": 1449,
+    "refurbishedPriceUSD": 600,
+    "tradeInBrokenUSD": {
+      "screen": 170,
+      "battery": 260,
+      "other": 115
+    },
+    "supportEndYear": 2029,
+    "successorId": null,
+    "notes": ""
+  },
+  {
+    "id": "thinkpad-t14-gen3",
+    "category": "laptop",
+    "brand": "Lenovo",
+    "name": "Lenovo ThinkPad T14 Gen 3",
+    "releaseYear": 2022,
+    "launchPriceUSD": 1149,
+    "refurbishedPriceUSD": 470,
+    "tradeInBrokenUSD": {
+      "screen": 130,
+      "battery": 200,
+      "other": 90
+    },
+    "supportEndYear": 2029,
+    "successorId": null,
+    "notes": "Business-class repairability and parts availability."
+  },
+  {
+    "id": "hp-spectre-x360-14",
+    "category": "laptop",
+    "brand": "HP",
+    "name": "HP Spectre x360 14",
+    "releaseYear": 2022,
+    "launchPriceUSD": 1249,
+    "refurbishedPriceUSD": 520,
+    "tradeInBrokenUSD": {
+      "screen": 145,
+      "battery": 225,
+      "other": 100
+    },
+    "supportEndYear": 2029,
+    "successorId": null,
+    "notes": ""
+  },
+  {
+    "id": "framework-laptop-13",
+    "category": "laptop",
+    "brand": "Framework",
+    "name": "Framework Laptop 13",
+    "releaseYear": 2022,
+    "launchPriceUSD": 1049,
+    "refurbishedPriceUSD": 560,
+    "tradeInBrokenUSD": {
+      "screen": 155,
+      "battery": 240,
+      "other": 105
+    },
+    "supportEndYear": 2031,
+    "successorId": null,
+    "notes": "Designed for repair; modular parts keep repairs cheap and viable."
   }
 ]

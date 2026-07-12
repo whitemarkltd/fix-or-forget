@@ -60,6 +60,25 @@ Web search could not pin these down reliably enough to publish; they need a live
 - **Refurbished prices:** search returns "from $X" *floor* prices (e.g. Galaxy S21 from $139, Pixel 8 from $195) that understate typical "Very Good" pricing and vary by variant/config. Left as-is.
 - **Samsung / Pixel / laptop official screen prices:** inconsistent across sources (parts-only vs full service vs Asurion markup). Left as-is.
 
+### 20-device expansion batch (`medium`, 2026-07-12)
+
+Added 20 popular devices (iPhone 11/15 Pro/16/16 Pro/SE 2022, Galaxy S22/S24/A54/Z Flip 5,
+Pixel 6a/9, OnePlus 12, Nothing Phone 2, MacBook Air M2/M3, MacBook Pro 16" 2021,
+Dell XPS 15, ThinkPad T14 Gen 3, HP Spectre x360, Framework Laptop 13).
+
+**How each figure was derived — so "medium" is transparent, not overclaimed:**
+- **Launch price, release year, support window:** known/verifiable facts (manufacturer update policies).
+- **Refurbished price:** anchored to Back Market July-2026 floor prices where found (e.g. iPhone 16 from $440, 15 Pro from $581, SE 2022 from $115, MacBook Air M2 from ~$500), set to a realistic "Very Good" typical above the floor; otherwise via the site's own depreciation model.
+- **Apple official screen/battery:** real out-of-warranty tiers — battery $69 (SE) / $89 (iPhone 11) / $99 (15 Pro, 16) / $119 (16 Pro); screen $129 (SE) / $199 (11) / $279 (16) / $329 (Pro). MacBook Air battery $159–199.
+- **Foldable (Z Flip 5) inner screen:** treated as the expensive specialist repair (~$449–549).
+- **All other repair costs:** **modeled** by scaling the category-average patterns (`categoryDefaults`) by each device's price tier. These are researched-market-informed estimates, **not** per-number live-verified — that's what `medium` means here.
+
+Sources: Back Market price guides & listing floors (July 2026); Apple repair tiers (support.apple.com, corroborated via ecoatm/Talo/9to5Mac); iFixit part pricing.
+
+> ⚠️ Non-Apple **official** repair prices in this batch are modeled, not published
+> figures (makers like Samsung/Google/Dell don't post flat per-fault prices).
+> Verify before promoting any to `high`.
+
 ## Still to verify (all currently `low` placeholders)
 
 - iPhone: charging-port, back-glass, camera, water-damage, speaker-mic, wont-turn-on.

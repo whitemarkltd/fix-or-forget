@@ -29,12 +29,12 @@ const TRUST_POINTS = [
 
 export default function HomePage() {
   const popular = [
-    "iphone-13",
-    "iphone-14",
-    "galaxy-s23",
-    "pixel-8",
-    "macbook-air-m1",
-    "dell-xps-13-9310",
+    "iphone-16",
+    "iphone-15-pro",
+    "galaxy-s24",
+    "pixel-9",
+    "macbook-air-m2",
+    "iphone-11",
   ]
     .map((id) => devices.find((d) => d.id === id))
     .filter(Boolean);
