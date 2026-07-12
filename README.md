@@ -58,7 +58,7 @@ components/               Presentational + interactive UI
 
 ---
 
-## Editing the data (for non-developers)
+## Editing the data (for non-developer)
 
 **All prices live in [`/data`](./data). You never need to touch component code.**
 Every file is plain JSON. After editing, run `npm run build` (or just push — Vercel
