@@ -86,8 +86,10 @@ Refurbished prices and trade-in values live in
 [`data/devices.json`](./data/devices.json) (`refurbishedPriceUSD`,
 `tradeInBrokenUSD`). Verify these against live Back Market listings before launch.
 
-> All seed prices ship marked `"confidence": "low"` — they are realistic
-> placeholders, not verified numbers.
+> Most seed prices ship marked `"confidence": "low"` — realistic placeholders,
+> not verified numbers. A first researched batch (Apple iPhone screen & battery)
+> is now `"medium"`. Every sourced figure and what still needs verifying is
+> tracked in [`data/SOURCES.md`](./data/SOURCES.md).
 
 ### Add a new device
 

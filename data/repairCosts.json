@@ -4,35 +4,35 @@
       "deviceId": "iphone-12",
       "faultId": "screen",
       "officialUSD": [
-        215,
-        315
+        279,
+        279
       ],
       "independentUSD": [
-        125,
-        180
+        100,
+        170
       ],
       "diyPartsUSD": [
-        80,
-        130
+        65,
+        190
       ],
-      "confidence": "low"
+      "confidence": "medium"
     },
     {
       "deviceId": "iphone-12",
       "faultId": "battery",
       "officialUSD": [
-        85,
-        125
+        99,
+        99
       ],
       "independentUSD": [
-        50,
+        40,
         75
       ],
       "diyPartsUSD": [
-        30,
+        35,
         50
       ],
-      "confidence": "low"
+      "confidence": "medium"
     },
     {
       "deviceId": "iphone-12",
@@ -131,35 +131,35 @@
       "deviceId": "iphone-13",
       "faultId": "screen",
       "officialUSD": [
-        215,
-        315
+        279,
+        279
       ],
       "independentUSD": [
-        125,
-        180
+        100,
+        170
       ],
       "diyPartsUSD": [
-        80,
-        130
+        65,
+        190
       ],
-      "confidence": "low"
+      "confidence": "medium"
     },
     {
       "deviceId": "iphone-13",
       "faultId": "battery",
       "officialUSD": [
-        85,
-        125
+        109,
+        109
       ],
       "independentUSD": [
-        50,
+        40,
         75
       ],
       "diyPartsUSD": [
-        30,
+        35,
         50
       ],
-      "confidence": "low"
+      "confidence": "medium"
     },
     {
       "deviceId": "iphone-13",
@@ -258,35 +258,35 @@
       "deviceId": "iphone-14",
       "faultId": "screen",
       "officialUSD": [
-        215,
-        315
+        279,
+        279
       ],
       "independentUSD": [
-        125,
-        180
+        100,
+        170
       ],
       "diyPartsUSD": [
-        80,
-        130
+        65,
+        190
       ],
-      "confidence": "low"
+      "confidence": "medium"
     },
     {
       "deviceId": "iphone-14",
       "faultId": "battery",
       "officialUSD": [
-        85,
-        125
+        119,
+        119
       ],
       "independentUSD": [
-        50,
+        40,
         75
       ],
       "diyPartsUSD": [
-        30,
+        35,
         50
       ],
-      "confidence": "low"
+      "confidence": "medium"
     },
     {
       "deviceId": "iphone-14",
@@ -385,35 +385,35 @@
       "deviceId": "iphone-15",
       "faultId": "screen",
       "officialUSD": [
-        215,
-        315
+        279,
+        279
       ],
       "independentUSD": [
-        125,
-        180
+        100,
+        170
       ],
       "diyPartsUSD": [
-        80,
-        130
+        65,
+        190
       ],
-      "confidence": "low"
+      "confidence": "medium"
     },
     {
       "deviceId": "iphone-15",
       "faultId": "battery",
       "officialUSD": [
-        85,
-        125
+        119,
+        119
       ],
       "independentUSD": [
-        50,
+        40,
         75
       ],
       "diyPartsUSD": [
-        30,
+        35,
         50
       ],
-      "confidence": "low"
+      "confidence": "medium"
     },
     {
       "deviceId": "iphone-15",
