@@ -1,0 +1,112 @@
+[
+  {
+    "id": "screen",
+    "category": ["phone", "laptop"],
+    "label": "Cracked or broken screen",
+    "faultClass": "screen",
+    "diySkillLevel": "hard",
+    "urgency": "degraded",
+    "descriptionShort": "A cracked or unresponsive display is the most common fault and usually the most expensive single repair.",
+    "seoGuidance": "Screen repair on the {device} is the single most common fix, and because the display is the priciest part its cost often decides the whole repair-or-replace question."
+  },
+  {
+    "id": "battery",
+    "category": ["phone", "laptop"],
+    "label": "Battery (drains fast / won't hold charge)",
+    "faultClass": "battery",
+    "diySkillLevel": "moderate",
+    "urgency": "usable",
+    "descriptionShort": "Battery capacity degrades with age; a replacement restores full-day use and is one of the highest-value repairs you can make.",
+    "seoGuidance": "A fresh battery in the {device} is one of the cheapest ways to add years of life, so this repair almost always beats replacing the whole device."
+  },
+  {
+    "id": "charging-port",
+    "category": ["phone", "laptop"],
+    "label": "Charging port (won't charge / loose cable)",
+    "faultClass": "other",
+    "diySkillLevel": "hard",
+    "urgency": "degraded",
+    "descriptionShort": "A worn or damaged charging port stops reliable charging; often it is just lint or a bent pin, so a diagnosis is worth it first.",
+    "seoGuidance": "Before paying for a charging-port repair on the {device}, have a shop check for lint or a loose connector — the real fix is sometimes free."
+  },
+  {
+    "id": "back-glass",
+    "category": ["phone"],
+    "label": "Cracked back glass",
+    "faultClass": "other",
+    "diySkillLevel": "not-recommended",
+    "urgency": "usable",
+    "descriptionShort": "Back glass is cosmetic on most phones, but on modern Apple designs it is laser-bonded and surprisingly costly to replace officially.",
+    "seoGuidance": "Cracked back glass on the {device} is mostly cosmetic, so weigh a costly official repair against simply using a case that hides it."
+  },
+  {
+    "id": "camera",
+    "category": ["phone"],
+    "label": "Camera (blurry / won't focus / black)",
+    "faultClass": "other",
+    "diySkillLevel": "moderate",
+    "urgency": "usable",
+    "descriptionShort": "Camera modules can fail or get scratched; replacements are modular on most phones and moderately priced.",
+    "seoGuidance": "The {device} camera module is a self-contained part, so this repair is more predictable and often cheaper than people expect."
+  },
+  {
+    "id": "water-damage",
+    "category": ["phone", "laptop"],
+    "label": "Water / liquid damage",
+    "faultClass": "other",
+    "diySkillLevel": "not-recommended",
+    "urgency": "unusable",
+    "descriptionShort": "Liquid damage is unpredictable: costs depend entirely on what corroded. A diagnosis is essential before spending anything.",
+    "seoGuidance": "Liquid damage on the {device} is the one fault where quotes are unreliable until a shop opens it up — get a diagnosis before deciding."
+  },
+  {
+    "id": "speaker-mic",
+    "category": ["phone"],
+    "label": "Speaker or microphone not working",
+    "faultClass": "other",
+    "diySkillLevel": "moderate",
+    "urgency": "degraded",
+    "descriptionShort": "Audio faults are often a clogged mesh or a cheap modular part, making this one of the more affordable repairs.",
+    "seoGuidance": "Speaker and microphone fixes on the {device} are usually inexpensive modular swaps, so repair almost always wins here."
+  },
+  {
+    "id": "keyboard",
+    "category": ["laptop"],
+    "label": "Keyboard (sticky / dead keys)",
+    "faultClass": "other",
+    "diySkillLevel": "hard",
+    "urgency": "degraded",
+    "descriptionShort": "Laptop keyboards can fail from wear or spills; on some models the keyboard is fused to the top case, raising the cost sharply.",
+    "seoGuidance": "Keyboard repair cost on the {device} swings widely depending on whether the key deck is a standalone part or fused to the chassis."
+  },
+  {
+    "id": "hinge",
+    "category": ["laptop"],
+    "label": "Broken or loose hinge",
+    "faultClass": "other",
+    "diySkillLevel": "hard",
+    "urgency": "degraded",
+    "descriptionShort": "A failing hinge can crack the lid or cables if ignored; parts are cheap but labour is fiddly.",
+    "seoGuidance": "Fix a loose hinge on the {device} sooner rather than later — the part is cheap, but a neglected hinge can crack the screen and multiply the bill."
+  },
+  {
+    "id": "ssd-storage",
+    "category": ["laptop"],
+    "label": "Storage / SSD failure",
+    "faultClass": "other",
+    "diySkillLevel": "moderate",
+    "urgency": "unusable",
+    "descriptionShort": "On laptops with a socketed SSD this is a cheap DIY upgrade; on soldered-storage models it may mean a board-level repair.",
+    "seoGuidance": "Whether an SSD fix on the {device} is a 15-minute DIY job or a board-level repair depends entirely on whether the storage is socketed or soldered."
+  },
+  {
+    "id": "wont-turn-on",
+    "category": ["phone", "laptop"],
+    "label": "Won't turn on / no power",
+    "faultClass": "other",
+    "diySkillLevel": "not-recommended",
+    "urgency": "unusable",
+    "descriptionShort": "A dead device can be anything from a flat battery to a logic-board fault, so the cost range is wide until diagnosed.",
+    "seoGuidance": "A {device} that won't power on could be a $0 fix or a logic-board job, so a free diagnosis is the only honest starting point."
+  }
+]

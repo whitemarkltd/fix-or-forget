@@ -1,0 +1,1799 @@
+{
+  "rows": [
+    {
+      "deviceId": "iphone-12",
+      "faultId": "screen",
+      "officialUSD": [
+        215,
+        315
+      ],
+      "independentUSD": [
+        125,
+        180
+      ],
+      "diyPartsUSD": [
+        80,
+        130
+      ],
+      "confidence": "low"
+    },
+    {
+      "deviceId": "iphone-12",
+      "faultId": "battery",
+      "officialUSD": [
+        85,
+        125
+      ],
+      "independentUSD": [
+        50,
+        75
+      ],
+      "diyPartsUSD": [
+        30,
+        50
+      ],
+      "confidence": "low"
+    },
+    {
+      "deviceId": "iphone-12",
+      "faultId": "charging-port",
+      "officialUSD": [
+        115,
+        165
+      ],
+      "independentUSD": [
+        65,
+        95
+      ],
+      "diyPartsUSD": [
+        30,
+        50
+      ],
+      "confidence": "low"
+    },
+    {
+      "deviceId": "iphone-12",
+      "faultId": "back-glass",
+      "officialUSD": [
+        180,
+        260
+      ],
+      "independentUSD": [
+        105,
+        150
+      ],
+      "diyPartsUSD": null,
+      "confidence": "low"
+    },
+    {
+      "deviceId": "iphone-12",
+      "faultId": "camera",
+      "officialUSD": [
+        150,
+        220
+      ],
+      "independentUSD": [
+        85,
+        125
+      ],
+      "diyPartsUSD": [
+        40,
+        65
+      ],
+      "confidence": "low"
+    },
+    {
+      "deviceId": "iphone-12",
+      "faultId": "water-damage",
+      "officialUSD": [
+        235,
+        345
+      ],
+      "independentUSD": [
+        130,
+        195
+      ],
+      "diyPartsUSD": null,
+      "confidence": "low"
+    },
+    {
+      "deviceId": "iphone-12",
+      "faultId": "speaker-mic",
+      "officialUSD": [
+        105,
+        150
+      ],
+      "independentUSD": [
+        50,
+        75
+      ],
+      "diyPartsUSD": [
+        20,
+        35
+      ],
+      "confidence": "low"
+    },
+    {
+      "deviceId": "iphone-12",
+      "faultId": "wont-turn-on",
+      "officialUSD": [
+        215,
+        315
+      ],
+      "independentUSD": [
+        125,
+        180
+      ],
+      "diyPartsUSD": null,
+      "confidence": "low"
+    },
+    {
+      "deviceId": "iphone-13",
+      "faultId": "screen",
+      "officialUSD": [
+        215,
+        315
+      ],
+      "independentUSD": [
+        125,
+        180
+      ],
+      "diyPartsUSD": [
+        80,
+        130
+      ],
+      "confidence": "low"
+    },
+    {
+      "deviceId": "iphone-13",
+      "faultId": "battery",
+      "officialUSD": [
+        85,
+        125
+      ],
+      "independentUSD": [
+        50,
+        75
+      ],
+      "diyPartsUSD": [
+        30,
+        50
+      ],
+      "confidence": "low"
+    },
+    {
+      "deviceId": "iphone-13",
+      "faultId": "charging-port",
+      "officialUSD": [
+        115,
+        165
+      ],
+      "independentUSD": [
+        65,
+        95
+      ],
+      "diyPartsUSD": [
+        30,
+        50
+      ],
+      "confidence": "low"
+    },
+    {
+      "deviceId": "iphone-13",
+      "faultId": "back-glass",
+      "officialUSD": [
+        180,
+        260
+      ],
+      "independentUSD": [
+        105,
+        150
+      ],
+      "diyPartsUSD": null,
+      "confidence": "low"
+    },
+    {
+      "deviceId": "iphone-13",
+      "faultId": "camera",
+      "officialUSD": [
+        150,
+        220
+      ],
+      "independentUSD": [
+        85,
+        125
+      ],
+      "diyPartsUSD": [
+        40,
+        65
+      ],
+      "confidence": "low"
+    },
+    {
+      "deviceId": "iphone-13",
+      "faultId": "water-damage",
+      "officialUSD": [
+        235,
+        345
+      ],
+      "independentUSD": [
+        130,
+        195
+      ],
+      "diyPartsUSD": null,
+      "confidence": "low"
+    },
+    {
+      "deviceId": "iphone-13",
+      "faultId": "speaker-mic",
+      "officialUSD": [
+        105,
+        150
+      ],
+      "independentUSD": [
+        50,
+        75
+      ],
+      "diyPartsUSD": [
+        20,
+        35
+      ],
+      "confidence": "low"
+    },
+    {
+      "deviceId": "iphone-13",
+      "faultId": "wont-turn-on",
+      "officialUSD": [
+        215,
+        315
+      ],
+      "independentUSD": [
+        125,
+        180
+      ],
+      "diyPartsUSD": null,
+      "confidence": "low"
+    },
+    {
+      "deviceId": "iphone-14",
+      "faultId": "screen",
+      "officialUSD": [
+        215,
+        315
+      ],
+      "independentUSD": [
+        125,
+        180
+      ],
+      "diyPartsUSD": [
+        80,
+        130
+      ],
+      "confidence": "low"
+    },
+    {
+      "deviceId": "iphone-14",
+      "faultId": "battery",
+      "officialUSD": [
+        85,
+        125
+      ],
+      "independentUSD": [
+        50,
+        75
+      ],
+      "diyPartsUSD": [
+        30,
+        50
+      ],
+      "confidence": "low"
+    },
+    {
+      "deviceId": "iphone-14",
+      "faultId": "charging-port",
+      "officialUSD": [
+        115,
+        165
+      ],
+      "independentUSD": [
+        65,
+        95
+      ],
+      "diyPartsUSD": [
+        30,
+        50
+      ],
+      "confidence": "low"
+    },
+    {
+      "deviceId": "iphone-14",
+      "faultId": "back-glass",
+      "officialUSD": [
+        180,
+        260
+      ],
+      "independentUSD": [
+        105,
+        150
+      ],
+      "diyPartsUSD": null,
+      "confidence": "low"
+    },
+    {
+      "deviceId": "iphone-14",
+      "faultId": "camera",
+      "officialUSD": [
+        150,
+        220
+      ],
+      "independentUSD": [
+        85,
+        125
+      ],
+      "diyPartsUSD": [
+        40,
+        65
+      ],
+      "confidence": "low"
+    },
+    {
+      "deviceId": "iphone-14",
+      "faultId": "water-damage",
+      "officialUSD": [
+        235,
+        345
+      ],
+      "independentUSD": [
+        130,
+        195
+      ],
+      "diyPartsUSD": null,
+      "confidence": "low"
+    },
+    {
+      "deviceId": "iphone-14",
+      "faultId": "speaker-mic",
+      "officialUSD": [
+        105,
+        150
+      ],
+      "independentUSD": [
+        50,
+        75
+      ],
+      "diyPartsUSD": [
+        20,
+        35
+      ],
+      "confidence": "low"
+    },
+    {
+      "deviceId": "iphone-14",
+      "faultId": "wont-turn-on",
+      "officialUSD": [
+        215,
+        315
+      ],
+      "independentUSD": [
+        125,
+        180
+      ],
+      "diyPartsUSD": null,
+      "confidence": "low"
+    },
+    {
+      "deviceId": "iphone-15",
+      "faultId": "screen",
+      "officialUSD": [
+        215,
+        315
+      ],
+      "independentUSD": [
+        125,
+        180
+      ],
+      "diyPartsUSD": [
+        80,
+        130
+      ],
+      "confidence": "low"
+    },
+    {
+      "deviceId": "iphone-15",
+      "faultId": "battery",
+      "officialUSD": [
+        85,
+        125
+      ],
+      "independentUSD": [
+        50,
+        75
+      ],
+      "diyPartsUSD": [
+        30,
+        50
+      ],
+      "confidence": "low"
+    },
+    {
+      "deviceId": "iphone-15",
+      "faultId": "charging-port",
+      "officialUSD": [
+        115,
+        165
+      ],
+      "independentUSD": [
+        65,
+        95
+      ],
+      "diyPartsUSD": [
+        30,
+        50
+      ],
+      "confidence": "low"
+    },
+    {
+      "deviceId": "iphone-15",
+      "faultId": "back-glass",
+      "officialUSD": [
+        180,
+        260
+      ],
+      "independentUSD": [
+        105,
+        150
+      ],
+      "diyPartsUSD": null,
+      "confidence": "low"
+    },
+    {
+      "deviceId": "iphone-15",
+      "faultId": "camera",
+      "officialUSD": [
+        150,
+        220
+      ],
+      "independentUSD": [
+        85,
+        125
+      ],
+      "diyPartsUSD": [
+        40,
+        65
+      ],
+      "confidence": "low"
+    },
+    {
+      "deviceId": "iphone-15",
+      "faultId": "water-damage",
+      "officialUSD": [
+        235,
+        345
+      ],
+      "independentUSD": [
+        130,
+        195
+      ],
+      "diyPartsUSD": null,
+      "confidence": "low"
+    },
+    {
+      "deviceId": "iphone-15",
+      "faultId": "speaker-mic",
+      "officialUSD": [
+        105,
+        150
+      ],
+      "independentUSD": [
+        50,
+        75
+      ],
+      "diyPartsUSD": [
+        20,
+        35
+      ],
+      "confidence": "low"
+    },
+    {
+      "deviceId": "iphone-15",
+      "faultId": "wont-turn-on",
+      "officialUSD": [
+        215,
+        315
+      ],
+      "independentUSD": [
+        125,
+        180
+      ],
+      "diyPartsUSD": null,
+      "confidence": "low"
+    },
+    {
+      "deviceId": "galaxy-s21",
+      "faultId": "screen",
+      "officialUSD": [
+        170,
+        250
+      ],
+      "independentUSD": [
+        95,
+        140
+      ],
+      "diyPartsUSD": [
+        65,
+        100
+      ],
+      "confidence": "low"
+    },
+    {
+      "deviceId": "galaxy-s21",
+      "faultId": "battery",
+      "officialUSD": [
+        65,
+        95
+      ],
+      "independentUSD": [
+        40,
+        60
+      ],
+      "diyPartsUSD": [
+        25,
+        40
+      ],
+      "confidence": "low"
+    },
+    {
+      "deviceId": "galaxy-s21",
+      "faultId": "charging-port",
+      "officialUSD": [
+        90,
+        130
+      ],
+      "independentUSD": [
+        50,
+        75
+      ],
+      "diyPartsUSD": [
+        25,
+        40
+      ],
+      "confidence": "low"
+    },
+    {
+      "deviceId": "galaxy-s21",
+      "faultId": "back-glass",
+      "officialUSD": [
+        140,
+        205
+      ],
+      "independentUSD": [
+        80,
+        120
+      ],
+      "diyPartsUSD": null,
+      "confidence": "low"
+    },
+    {
+      "deviceId": "galaxy-s21",
+      "faultId": "camera",
+      "officialUSD": [
+        120,
+        175
+      ],
+      "independentUSD": [
+        65,
+        95
+      ],
+      "diyPartsUSD": [
+        30,
+        50
+      ],
+      "confidence": "low"
+    },
+    {
+      "deviceId": "galaxy-s21",
+      "faultId": "water-damage",
+      "officialUSD": [
+        185,
+        270
+      ],
+      "independentUSD": [
+        105,
+        150
+      ],
+      "diyPartsUSD": null,
+      "confidence": "low"
+    },
+    {
+      "deviceId": "galaxy-s21",
+      "faultId": "speaker-mic",
+      "officialUSD": [
+        80,
+        120
+      ],
+      "independentUSD": [
+        40,
+        60
+      ],
+      "diyPartsUSD": [
+        20,
+        30
+      ],
+      "confidence": "low"
+    },
+    {
+      "deviceId": "galaxy-s21",
+      "faultId": "wont-turn-on",
+      "officialUSD": [
+        170,
+        250
+      ],
+      "independentUSD": [
+        95,
+        140
+      ],
+      "diyPartsUSD": null,
+      "confidence": "low"
+    },
+    {
+      "deviceId": "galaxy-s23",
+      "faultId": "screen",
+      "officialUSD": [
+        170,
+        250
+      ],
+      "independentUSD": [
+        95,
+        140
+      ],
+      "diyPartsUSD": [
+        65,
+        100
+      ],
+      "confidence": "low"
+    },
+    {
+      "deviceId": "galaxy-s23",
+      "faultId": "battery",
+      "officialUSD": [
+        65,
+        95
+      ],
+      "independentUSD": [
+        40,
+        60
+      ],
+      "diyPartsUSD": [
+        25,
+        40
+      ],
+      "confidence": "low"
+    },
+    {
+      "deviceId": "galaxy-s23",
+      "faultId": "charging-port",
+      "officialUSD": [
+        90,
+        130
+      ],
+      "independentUSD": [
+        50,
+        75
+      ],
+      "diyPartsUSD": [
+        25,
+        40
+      ],
+      "confidence": "low"
+    },
+    {
+      "deviceId": "galaxy-s23",
+      "faultId": "back-glass",
+      "officialUSD": [
+        140,
+        205
+      ],
+      "independentUSD": [
+        80,
+        120
+      ],
+      "diyPartsUSD": null,
+      "confidence": "low"
+    },
+    {
+      "deviceId": "galaxy-s23",
+      "faultId": "camera",
+      "officialUSD": [
+        120,
+        175
+      ],
+      "independentUSD": [
+        65,
+        95
+      ],
+      "diyPartsUSD": [
+        30,
+        50
+      ],
+      "confidence": "low"
+    },
+    {
+      "deviceId": "galaxy-s23",
+      "faultId": "water-damage",
+      "officialUSD": [
+        185,
+        270
+      ],
+      "independentUSD": [
+        105,
+        150
+      ],
+      "diyPartsUSD": null,
+      "confidence": "low"
+    },
+    {
+      "deviceId": "galaxy-s23",
+      "faultId": "speaker-mic",
+      "officialUSD": [
+        80,
+        120
+      ],
+      "independentUSD": [
+        40,
+        60
+      ],
+      "diyPartsUSD": [
+        20,
+        30
+      ],
+      "confidence": "low"
+    },
+    {
+      "deviceId": "galaxy-s23",
+      "faultId": "wont-turn-on",
+      "officialUSD": [
+        170,
+        250
+      ],
+      "independentUSD": [
+        95,
+        140
+      ],
+      "diyPartsUSD": null,
+      "confidence": "low"
+    },
+    {
+      "deviceId": "pixel-7",
+      "faultId": "screen",
+      "officialUSD": [
+        170,
+        250
+      ],
+      "independentUSD": [
+        95,
+        140
+      ],
+      "diyPartsUSD": [
+        65,
+        100
+      ],
+      "confidence": "low"
+    },
+    {
+      "deviceId": "pixel-7",
+      "faultId": "battery",
+      "officialUSD": [
+        65,
+        95
+      ],
+      "independentUSD": [
+        40,
+        60
+      ],
+      "diyPartsUSD": [
+        25,
+        40
+      ],
+      "confidence": "low"
+    },
+    {
+      "deviceId": "pixel-7",
+      "faultId": "charging-port",
+      "officialUSD": [
+        90,
+        130
+      ],
+      "independentUSD": [
+        50,
+        75
+      ],
+      "diyPartsUSD": [
+        25,
+        40
+      ],
+      "confidence": "low"
+    },
+    {
+      "deviceId": "pixel-7",
+      "faultId": "back-glass",
+      "officialUSD": [
+        140,
+        205
+      ],
+      "independentUSD": [
+        80,
+        120
+      ],
+      "diyPartsUSD": null,
+      "confidence": "low"
+    },
+    {
+      "deviceId": "pixel-7",
+      "faultId": "camera",
+      "officialUSD": [
+        120,
+        175
+      ],
+      "independentUSD": [
+        65,
+        95
+      ],
+      "diyPartsUSD": [
+        30,
+        50
+      ],
+      "confidence": "low"
+    },
+    {
+      "deviceId": "pixel-7",
+      "faultId": "water-damage",
+      "officialUSD": [
+        185,
+        270
+      ],
+      "independentUSD": [
+        105,
+        150
+      ],
+      "diyPartsUSD": null,
+      "confidence": "low"
+    },
+    {
+      "deviceId": "pixel-7",
+      "faultId": "speaker-mic",
+      "officialUSD": [
+        80,
+        120
+      ],
+      "independentUSD": [
+        40,
+        60
+      ],
+      "diyPartsUSD": [
+        20,
+        30
+      ],
+      "confidence": "low"
+    },
+    {
+      "deviceId": "pixel-7",
+      "faultId": "wont-turn-on",
+      "officialUSD": [
+        170,
+        250
+      ],
+      "independentUSD": [
+        95,
+        140
+      ],
+      "diyPartsUSD": null,
+      "confidence": "low"
+    },
+    {
+      "deviceId": "pixel-8",
+      "faultId": "screen",
+      "officialUSD": [
+        170,
+        250
+      ],
+      "independentUSD": [
+        95,
+        140
+      ],
+      "diyPartsUSD": [
+        65,
+        100
+      ],
+      "confidence": "low"
+    },
+    {
+      "deviceId": "pixel-8",
+      "faultId": "battery",
+      "officialUSD": [
+        65,
+        95
+      ],
+      "independentUSD": [
+        40,
+        60
+      ],
+      "diyPartsUSD": [
+        25,
+        40
+      ],
+      "confidence": "low"
+    },
+    {
+      "deviceId": "pixel-8",
+      "faultId": "charging-port",
+      "officialUSD": [
+        90,
+        130
+      ],
+      "independentUSD": [
+        50,
+        75
+      ],
+      "diyPartsUSD": [
+        25,
+        40
+      ],
+      "confidence": "low"
+    },
+    {
+      "deviceId": "pixel-8",
+      "faultId": "back-glass",
+      "officialUSD": [
+        140,
+        205
+      ],
+      "independentUSD": [
+        80,
+        120
+      ],
+      "diyPartsUSD": null,
+      "confidence": "low"
+    },
+    {
+      "deviceId": "pixel-8",
+      "faultId": "camera",
+      "officialUSD": [
+        120,
+        175
+      ],
+      "independentUSD": [
+        65,
+        95
+      ],
+      "diyPartsUSD": [
+        30,
+        50
+      ],
+      "confidence": "low"
+    },
+    {
+      "deviceId": "pixel-8",
+      "faultId": "water-damage",
+      "officialUSD": [
+        185,
+        270
+      ],
+      "independentUSD": [
+        105,
+        150
+      ],
+      "diyPartsUSD": null,
+      "confidence": "low"
+    },
+    {
+      "deviceId": "pixel-8",
+      "faultId": "speaker-mic",
+      "officialUSD": [
+        80,
+        120
+      ],
+      "independentUSD": [
+        40,
+        60
+      ],
+      "diyPartsUSD": [
+        20,
+        30
+      ],
+      "confidence": "low"
+    },
+    {
+      "deviceId": "pixel-8",
+      "faultId": "wont-turn-on",
+      "officialUSD": [
+        170,
+        250
+      ],
+      "independentUSD": [
+        95,
+        140
+      ],
+      "diyPartsUSD": null,
+      "confidence": "low"
+    },
+    {
+      "deviceId": "macbook-air-m1",
+      "faultId": "screen",
+      "officialUSD": [
+        330,
+        480
+      ],
+      "independentUSD": [
+        195,
+        290
+      ],
+      "diyPartsUSD": [
+        115,
+        190
+      ],
+      "confidence": "low"
+    },
+    {
+      "deviceId": "macbook-air-m1",
+      "faultId": "battery",
+      "officialUSD": [
+        150,
+        215
+      ],
+      "independentUSD": [
+        90,
+        130
+      ],
+      "diyPartsUSD": [
+        50,
+        80
+      ],
+      "confidence": "low"
+    },
+    {
+      "deviceId": "macbook-air-m1",
+      "faultId": "charging-port",
+      "officialUSD": [
+        165,
+        240
+      ],
+      "independentUSD": [
+        100,
+        145
+      ],
+      "diyPartsUSD": [
+        45,
+        70
+      ],
+      "confidence": "low"
+    },
+    {
+      "deviceId": "macbook-air-m1",
+      "faultId": "water-damage",
+      "officialUSD": [
+        410,
+        600
+      ],
+      "independentUSD": [
+        245,
+        360
+      ],
+      "diyPartsUSD": null,
+      "confidence": "low"
+    },
+    {
+      "deviceId": "macbook-air-m1",
+      "faultId": "keyboard",
+      "officialUSD": [
+        215,
+        310
+      ],
+      "independentUSD": [
+        125,
+        180
+      ],
+      "diyPartsUSD": [
+        45,
+        75
+      ],
+      "confidence": "low"
+    },
+    {
+      "deviceId": "macbook-air-m1",
+      "faultId": "hinge",
+      "officialUSD": [
+        180,
+        265
+      ],
+      "independentUSD": [
+        105,
+        155
+      ],
+      "diyPartsUSD": [
+        35,
+        55
+      ],
+      "confidence": "low"
+    },
+    {
+      "deviceId": "macbook-air-m1",
+      "faultId": "ssd-storage",
+      "officialUSD": [
+        215,
+        310
+      ],
+      "independentUSD": [
+        125,
+        180
+      ],
+      "diyPartsUSD": [
+        60,
+        100
+      ],
+      "confidence": "low"
+    },
+    {
+      "deviceId": "macbook-air-m1",
+      "faultId": "wont-turn-on",
+      "officialUSD": [
+        410,
+        600
+      ],
+      "independentUSD": [
+        245,
+        360
+      ],
+      "diyPartsUSD": null,
+      "confidence": "low"
+    },
+    {
+      "deviceId": "macbook-pro-14-2021",
+      "faultId": "screen",
+      "officialUSD": [
+        445,
+        650
+      ],
+      "independentUSD": [
+        265,
+        390
+      ],
+      "diyPartsUSD": [
+        160,
+        255
+      ],
+      "confidence": "low"
+    },
+    {
+      "deviceId": "macbook-pro-14-2021",
+      "faultId": "battery",
+      "officialUSD": [
+        200,
+        290
+      ],
+      "independentUSD": [
+        120,
+        180
+      ],
+      "diyPartsUSD": [
+        70,
+        110
+      ],
+      "confidence": "low"
+    },
+    {
+      "deviceId": "macbook-pro-14-2021",
+      "faultId": "charging-port",
+      "officialUSD": [
+        220,
+        325
+      ],
+      "independentUSD": [
+        135,
+        195
+      ],
+      "diyPartsUSD": [
+        60,
+        95
+      ],
+      "confidence": "low"
+    },
+    {
+      "deviceId": "macbook-pro-14-2021",
+      "faultId": "water-damage",
+      "officialUSD": [
+        555,
+        810
+      ],
+      "independentUSD": [
+        330,
+        485
+      ],
+      "diyPartsUSD": null,
+      "confidence": "low"
+    },
+    {
+      "deviceId": "macbook-pro-14-2021",
+      "faultId": "keyboard",
+      "officialUSD": [
+        290,
+        420
+      ],
+      "independentUSD": [
+        165,
+        245
+      ],
+      "diyPartsUSD": [
+        65,
+        100
+      ],
+      "confidence": "low"
+    },
+    {
+      "deviceId": "macbook-pro-14-2021",
+      "faultId": "hinge",
+      "officialUSD": [
+        245,
+        355
+      ],
+      "independentUSD": [
+        145,
+        210
+      ],
+      "diyPartsUSD": [
+        45,
+        75
+      ],
+      "confidence": "low"
+    },
+    {
+      "deviceId": "macbook-pro-14-2021",
+      "faultId": "ssd-storage",
+      "officialUSD": [
+        290,
+        420
+      ],
+      "independentUSD": [
+        165,
+        245
+      ],
+      "diyPartsUSD": [
+        85,
+        135
+      ],
+      "confidence": "low"
+    },
+    {
+      "deviceId": "macbook-pro-14-2021",
+      "faultId": "wont-turn-on",
+      "officialUSD": [
+        555,
+        810
+      ],
+      "independentUSD": [
+        330,
+        485
+      ],
+      "diyPartsUSD": null,
+      "confidence": "low"
+    },
+    {
+      "deviceId": "thinkpad-x1-carbon-gen9",
+      "faultId": "screen",
+      "officialUSD": [
+        360,
+        530
+      ],
+      "independentUSD": [
+        215,
+        315
+      ],
+      "diyPartsUSD": [
+        130,
+        205
+      ],
+      "confidence": "low"
+    },
+    {
+      "deviceId": "thinkpad-x1-carbon-gen9",
+      "faultId": "battery",
+      "officialUSD": [
+        160,
+        240
+      ],
+      "independentUSD": [
+        100,
+        145
+      ],
+      "diyPartsUSD": [
+        55,
+        90
+      ],
+      "confidence": "low"
+    },
+    {
+      "deviceId": "thinkpad-x1-carbon-gen9",
+      "faultId": "charging-port",
+      "officialUSD": [
+        180,
+        265
+      ],
+      "independentUSD": [
+        110,
+        160
+      ],
+      "diyPartsUSD": [
+        45,
+        75
+      ],
+      "confidence": "low"
+    },
+    {
+      "deviceId": "thinkpad-x1-carbon-gen9",
+      "faultId": "water-damage",
+      "officialUSD": [
+        450,
+        660
+      ],
+      "independentUSD": [
+        270,
+        395
+      ],
+      "diyPartsUSD": null,
+      "confidence": "low"
+    },
+    {
+      "deviceId": "thinkpad-x1-carbon-gen9",
+      "faultId": "keyboard",
+      "officialUSD": [
+        235,
+        345
+      ],
+      "independentUSD": [
+        135,
+        200
+      ],
+      "diyPartsUSD": [
+        50,
+        85
+      ],
+      "confidence": "low"
+    },
+    {
+      "deviceId": "thinkpad-x1-carbon-gen9",
+      "faultId": "hinge",
+      "officialUSD": [
+        200,
+        290
+      ],
+      "independentUSD": [
+        115,
+        170
+      ],
+      "diyPartsUSD": [
+        40,
+        60
+      ],
+      "confidence": "low"
+    },
+    {
+      "deviceId": "thinkpad-x1-carbon-gen9",
+      "faultId": "ssd-storage",
+      "officialUSD": [
+        235,
+        345
+      ],
+      "independentUSD": [
+        135,
+        200
+      ],
+      "diyPartsUSD": [
+        70,
+        110
+      ],
+      "confidence": "low"
+    },
+    {
+      "deviceId": "thinkpad-x1-carbon-gen9",
+      "faultId": "wont-turn-on",
+      "officialUSD": [
+        450,
+        660
+      ],
+      "independentUSD": [
+        270,
+        395
+      ],
+      "diyPartsUSD": null,
+      "confidence": "low"
+    },
+    {
+      "deviceId": "dell-xps-13-9310",
+      "faultId": "screen",
+      "officialUSD": [
+        360,
+        530
+      ],
+      "independentUSD": [
+        215,
+        315
+      ],
+      "diyPartsUSD": [
+        130,
+        205
+      ],
+      "confidence": "low"
+    },
+    {
+      "deviceId": "dell-xps-13-9310",
+      "faultId": "battery",
+      "officialUSD": [
+        160,
+        240
+      ],
+      "independentUSD": [
+        100,
+        145
+      ],
+      "diyPartsUSD": [
+        55,
+        90
+      ],
+      "confidence": "low"
+    },
+    {
+      "deviceId": "dell-xps-13-9310",
+      "faultId": "charging-port",
+      "officialUSD": [
+        180,
+        265
+      ],
+      "independentUSD": [
+        110,
+        160
+      ],
+      "diyPartsUSD": [
+        45,
+        75
+      ],
+      "confidence": "low"
+    },
+    {
+      "deviceId": "dell-xps-13-9310",
+      "faultId": "water-damage",
+      "officialUSD": [
+        450,
+        660
+      ],
+      "independentUSD": [
+        270,
+        395
+      ],
+      "diyPartsUSD": null,
+      "confidence": "low"
+    },
+    {
+      "deviceId": "dell-xps-13-9310",
+      "faultId": "keyboard",
+      "officialUSD": [
+        235,
+        345
+      ],
+      "independentUSD": [
+        135,
+        200
+      ],
+      "diyPartsUSD": [
+        50,
+        85
+      ],
+      "confidence": "low"
+    },
+    {
+      "deviceId": "dell-xps-13-9310",
+      "faultId": "hinge",
+      "officialUSD": [
+        200,
+        290
+      ],
+      "independentUSD": [
+        115,
+        170
+      ],
+      "diyPartsUSD": [
+        40,
+        60
+      ],
+      "confidence": "low"
+    },
+    {
+      "deviceId": "dell-xps-13-9310",
+      "faultId": "ssd-storage",
+      "officialUSD": [
+        235,
+        345
+      ],
+      "independentUSD": [
+        135,
+        200
+      ],
+      "diyPartsUSD": [
+        70,
+        110
+      ],
+      "confidence": "low"
+    },
+    {
+      "deviceId": "dell-xps-13-9310",
+      "faultId": "wont-turn-on",
+      "officialUSD": [
+        450,
+        660
+      ],
+      "independentUSD": [
+        270,
+        395
+      ],
+      "diyPartsUSD": null,
+      "confidence": "low"
+    }
+  ],
+  "categoryDefaults": [
+    {
+      "category": "phone",
+      "faultId": "screen",
+      "officialUSD": [
+        190,
+        275
+      ],
+      "independentUSD": [
+        105,
+        155
+      ],
+      "diyPartsUSD": [
+        70,
+        115
+      ],
+      "confidence": "low"
+    },
+    {
+      "category": "phone",
+      "faultId": "battery",
+      "officialUSD": [
+        75,
+        105
+      ],
+      "independentUSD": [
+        45,
+        65
+      ],
+      "diyPartsUSD": [
+        25,
+        45
+      ],
+      "confidence": "low"
+    },
+    {
+      "category": "phone",
+      "faultId": "charging-port",
+      "officialUSD": [
+        100,
+        145
+      ],
+      "independentUSD": [
+        55,
+        85
+      ],
+      "diyPartsUSD": [
+        25,
+        45
+      ],
+      "confidence": "low"
+    },
+    {
+      "category": "phone",
+      "faultId": "back-glass",
+      "officialUSD": [
+        155,
+        230
+      ],
+      "independentUSD": [
+        90,
+        130
+      ],
+      "diyPartsUSD": null,
+      "confidence": "low"
+    },
+    {
+      "category": "phone",
+      "faultId": "camera",
+      "officialUSD": [
+        130,
+        190
+      ],
+      "independentUSD": [
+        75,
+        110
+      ],
+      "diyPartsUSD": [
+        35,
+        55
+      ],
+      "confidence": "low"
+    },
+    {
+      "category": "phone",
+      "faultId": "water-damage",
+      "officialUSD": [
+        205,
+        300
+      ],
+      "independentUSD": [
+        115,
+        170
+      ],
+      "diyPartsUSD": null,
+      "confidence": "low"
+    },
+    {
+      "category": "phone",
+      "faultId": "speaker-mic",
+      "officialUSD": [
+        90,
+        130
+      ],
+      "independentUSD": [
+        45,
+        65
+      ],
+      "diyPartsUSD": [
+        20,
+        30
+      ],
+      "confidence": "low"
+    },
+    {
+      "category": "phone",
+      "faultId": "wont-turn-on",
+      "officialUSD": [
+        190,
+        275
+      ],
+      "independentUSD": [
+        105,
+        155
+      ],
+      "diyPartsUSD": null,
+      "confidence": "low"
+    },
+    {
+      "category": "laptop",
+      "faultId": "screen",
+      "officialUSD": [
+        330,
+        480
+      ],
+      "independentUSD": [
+        195,
+        290
+      ],
+      "diyPartsUSD": [
+        115,
+        190
+      ],
+      "confidence": "low"
+    },
+    {
+      "category": "laptop",
+      "faultId": "battery",
+      "officialUSD": [
+        150,
+        215
+      ],
+      "independentUSD": [
+        90,
+        130
+      ],
+      "diyPartsUSD": [
+        50,
+        80
+      ],
+      "confidence": "low"
+    },
+    {
+      "category": "laptop",
+      "faultId": "charging-port",
+      "officialUSD": [
+        165,
+        240
+      ],
+      "independentUSD": [
+        100,
+        145
+      ],
+      "diyPartsUSD": [
+        45,
+        70
+      ],
+      "confidence": "low"
+    },
+    {
+      "category": "laptop",
+      "faultId": "water-damage",
+      "officialUSD": [
+        410,
+        600
+      ],
+      "independentUSD": [
+        245,
+        360
+      ],
+      "diyPartsUSD": null,
+      "confidence": "low"
+    },
+    {
+      "category": "laptop",
+      "faultId": "keyboard",
+      "officialUSD": [
+        215,
+        310
+      ],
+      "independentUSD": [
+        125,
+        180
+      ],
+      "diyPartsUSD": [
+        45,
+        75
+      ],
+      "confidence": "low"
+    },
+    {
+      "category": "laptop",
+      "faultId": "hinge",
+      "officialUSD": [
+        180,
+        265
+      ],
+      "independentUSD": [
+        105,
+        155
+      ],
+      "diyPartsUSD": [
+        35,
+        55
+      ],
+      "confidence": "low"
+    },
+    {
+      "category": "laptop",
+      "faultId": "ssd-storage",
+      "officialUSD": [
+        215,
+        310
+      ],
+      "independentUSD": [
+        125,
+        180
+      ],
+      "diyPartsUSD": [
+        60,
+        100
+      ],
+      "confidence": "low"
+    },
+    {
+      "category": "laptop",
+      "faultId": "wont-turn-on",
+      "officialUSD": [
+        410,
+        600
+      ],
+      "independentUSD": [
+        245,
+        360
+      ],
+      "diyPartsUSD": null,
+      "confidence": "low"
+    }
+  ]
+}
