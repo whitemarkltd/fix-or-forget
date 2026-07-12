@@ -8,7 +8,7 @@ import {
   getRepairCost,
   getDevice as lookup,
 } from "@/data";
-import { faultNoun } from "@/lib/seo";
+import { faultNoun, breadcrumbJsonLd } from "@/lib/seo";
 import { usdRange, usd } from "@/lib/format";
 import { SupportBar } from "@/components/SupportBar";
 import { CURRENT_YEAR } from "@/lib/site";
@@ -44,9 +44,17 @@ export default function DeviceHubPage({ params }: Params) {
 
   const faults = getFaultsForDevice(device.id);
   const successor = device.successorId ? lookup(device.successorId) : null;
+  const breadcrumbLd = breadcrumbJsonLd([
+    { name: "Home", path: "/" },
+    { name: device.name, path: `/device/${device.id}` },
+  ]);
 
   return (
     <div className="mx-auto max-w-2xl px-4 py-8">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd) }}
+      />
       <nav className="mb-4 text-xs text-ink/50">
         <Link href="/" className="hover:text-accent">Home</Link> ·{" "}
         <span className="capitalize">{device.category}</span> · {device.name}

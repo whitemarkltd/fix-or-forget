@@ -16,6 +16,7 @@ import {
   miniVerdictSentence,
   faqItems,
   faqJsonLd,
+  breadcrumbJsonLd,
   faultNoun,
 } from "@/lib/seo";
 import { usdRange, usd } from "@/lib/format";
@@ -60,6 +61,11 @@ export default function RepairSeoPage({ params }: Params) {
   const verdict = typicalVerdict(device, fault, cost);
   const faqs = faqItems(device, fault, cost, verdict);
   const jsonLd = faqJsonLd(faqs);
+  const breadcrumbLd = breadcrumbJsonLd([
+    { name: "Home", path: "/" },
+    { name: device.name, path: `/device/${device.id}` },
+    { name: faultNoun(fault), path: `/repair/${device.id}/${fault.id}` },
+  ]);
 
   // Sibling links.
   const sameDevice = getFaultsForDevice(device.id).filter((f) => f.id !== fault.id);
@@ -75,6 +81,10 @@ export default function RepairSeoPage({ params }: Params) {
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd) }}
       />
 
       <nav className="mb-4 text-xs text-ink/50">

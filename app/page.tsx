@@ -1,7 +1,25 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 import { devices } from "@/data";
 import { usd } from "@/lib/format";
-import { SITE_TAGLINE } from "@/lib/site";
+import { SITE_NAME, SITE_TAGLINE } from "@/lib/site";
+
+export const metadata: Metadata = {
+  // `absolute` bypasses the "%s · Fix or Forget" template for the homepage.
+  title: {
+    absolute: `${SITE_NAME} — Repair or replace your phone or laptop?`,
+  },
+  description:
+    "Free tool that tells you whether your broken phone or laptop is worth repairing or replacing — with the full cost math: repair prices, refurbished value, trade-in, and how long it still gets updates.",
+  alternates: { canonical: "/" },
+  openGraph: {
+    title: `${SITE_NAME} — Repair or replace your phone or laptop?`,
+    description:
+      "Should you fix it or replace it? Get a clear, neutral verdict with the full repair-vs-replace math.",
+    url: "/",
+    type: "website",
+  },
+};
 
 const TRUST_POINTS = [
   { icon: "⚖️", title: "Neutral referee", text: "We recommend repair or replacement — whichever the math favours. No thumb on the scale." },

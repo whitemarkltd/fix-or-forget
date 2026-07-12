@@ -3,7 +3,7 @@
 
 import type { Device, Fault, RepairCost } from "@/data/types";
 import { computeVerdict, midpoint, type Verdict } from "./verdict";
-import { CURRENT_YEAR, SITE_NAME } from "./site";
+import { CURRENT_YEAR, SITE_NAME, SITE_URL } from "./site";
 import { usdRange, usd } from "./format";
 
 export interface FaqItem {
@@ -91,6 +91,20 @@ export function faqJsonLd(items: FaqItem[]) {
       "@type": "Question",
       name: i.question,
       acceptedAnswer: { "@type": "Answer", text: i.answer },
+    })),
+  };
+}
+
+/** JSON-LD BreadcrumbList — powers breadcrumb rich results in search. */
+export function breadcrumbJsonLd(trail: { name: string; path: string }[]) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: trail.map((crumb, i) => ({
+      "@type": "ListItem",
+      position: i + 1,
+      name: crumb.name,
+      item: `${SITE_URL}${crumb.path}`,
     })),
   };
 }

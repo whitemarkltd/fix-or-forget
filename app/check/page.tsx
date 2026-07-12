@@ -7,6 +7,7 @@ export const metadata: Metadata = {
   title: "Check your device",
   description:
     "Answer a few quick questions and get a clear repair-or-replace verdict with the full cost math.",
+  alternates: { canonical: "/check" },
 };
 
 // This page reads `searchParams` (deep-link prefill), so it renders on demand.
