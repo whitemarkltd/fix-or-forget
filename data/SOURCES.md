@@ -36,6 +36,30 @@ Sources:
 > open each Apple page above, confirm the exact current figure per model, and
 > bump `confidence`.
 
+### Apple iPhone — back glass, & MacBook Air battery (`medium`, 2026-07-12)
+
+- **iPhone back glass** (12/13/14/15): Apple offers back-glass-only repair for iPhone 12+, base models ~$169 (up to ~$259 larger); third-party ~$110–200.
+- **MacBook Air M1 battery:** Apple out-of-warranty $159–199 (Air sits at the low end of Apple's $159–249 Mac battery range).
+
+Sources: Apple Mac repair (https://support.apple.com/mac/repair); iPhone back-glass repair reporting (cellularport, ecoatm, 2026 guides); corroborated across multiple shops.
+
+### ⚠️ Known correction NOT yet applied — Apple "other damage" fee
+
+Apple does **not** do cheap component-level repairs. Anything that isn't screen /
+battery / back-glass (charging port, camera, water damage, speaker/mic, won't
+turn on) is billed as a flat **"other damage"** service fee — roughly **$449–599**
+for these iPhone models — because Apple swaps the whole unit. The current
+`officialUSD` placeholders for those faults (e.g. ~$115 for a charging port) are
+therefore **materially understated**. Left unchanged pending exact per-model
+figures, but the site owner should raise these officials. (Independent-shop
+numbers for these faults are realistic — third parties do fix them cheaply.)
+
+### Came back too noisy to promote (still `low`)
+
+Web search could not pin these down reliably enough to publish; they need a live-page glance:
+- **Refurbished prices:** search returns "from $X" *floor* prices (e.g. Galaxy S21 from $139, Pixel 8 from $195) that understate typical "Very Good" pricing and vary by variant/config. Left as-is.
+- **Samsung / Pixel / laptop official screen prices:** inconsistent across sources (parts-only vs full service vs Asurion markup). Left as-is.
+
 ## Still to verify (all currently `low` placeholders)
 
 - iPhone: charging-port, back-glass, camera, water-damage, speaker-mic, wont-turn-on.

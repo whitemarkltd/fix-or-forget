@@ -55,15 +55,15 @@
       "deviceId": "iphone-12",
       "faultId": "back-glass",
       "officialUSD": [
-        180,
-        260
+        169,
+        259
       ],
       "independentUSD": [
-        105,
-        150
+        110,
+        200
       ],
       "diyPartsUSD": null,
-      "confidence": "low"
+      "confidence": "medium"
     },
     {
       "deviceId": "iphone-12",
@@ -182,15 +182,15 @@
       "deviceId": "iphone-13",
       "faultId": "back-glass",
       "officialUSD": [
-        180,
-        260
+        169,
+        259
       ],
       "independentUSD": [
-        105,
-        150
+        110,
+        200
       ],
       "diyPartsUSD": null,
-      "confidence": "low"
+      "confidence": "medium"
     },
     {
       "deviceId": "iphone-13",
@@ -309,15 +309,15 @@
       "deviceId": "iphone-14",
       "faultId": "back-glass",
       "officialUSD": [
-        180,
-        260
+        169,
+        259
       ],
       "independentUSD": [
-        105,
-        150
+        110,
+        200
       ],
       "diyPartsUSD": null,
-      "confidence": "low"
+      "confidence": "medium"
     },
     {
       "deviceId": "iphone-14",
@@ -436,15 +436,15 @@
       "deviceId": "iphone-15",
       "faultId": "back-glass",
       "officialUSD": [
-        180,
-        260
+        169,
+        259
       ],
       "independentUSD": [
-        105,
-        150
+        110,
+        200
       ],
       "diyPartsUSD": null,
-      "confidence": "low"
+      "confidence": "medium"
     },
     {
       "deviceId": "iphone-15",
@@ -1037,18 +1037,18 @@
       "deviceId": "macbook-air-m1",
       "faultId": "battery",
       "officialUSD": [
-        150,
-        215
+        159,
+        199
       ],
       "independentUSD": [
-        90,
-        130
+        95,
+        140
       ],
       "diyPartsUSD": [
         50,
         80
       ],
-      "confidence": "low"
+      "confidence": "medium"
     },
     {
       "deviceId": "macbook-air-m1",
