@@ -5,14 +5,14 @@ import { Prose } from "@/components/Prose";
 export const metadata: Metadata = {
   title: "How it works",
   description:
-    "How Fix or Ditch decides whether to repair or replace: the exact math and rules behind every verdict.",
+    "How Fix or Forget decides whether to repair or replace: the exact math and rules behind every verdict.",
 };
 
 export default function HowItWorksPage() {
   return (
     <Prose title="How it works">
       <p>
-        Fix or Ditch answers one question: is your broken phone or laptop worth
+        Fix or Forget answers one question: is your broken phone or laptop worth
         repairing, or should you replace it? We show the full math so you can judge
         for yourself.
       </p>

@@ -5,12 +5,12 @@ import { Prose } from "@/components/Prose";
 export const metadata: Metadata = {
   title: "About",
   description:
-    "Why Fix or Ditch exists: a neutral, transparent tool for the repair-or-replace decision.",
+    "Why Fix or Forget exists: a neutral, transparent tool for the repair-or-replace decision.",
 };
 
 export default function AboutPage() {
   return (
-    <Prose title="About Fix or Ditch">
+    <Prose title="About Fix or Forget">
       <p>
         Something breaks, and you&apos;re stuck: pay to fix an aging device, or put
         that money toward a replacement? The honest answer depends on numbers most
@@ -18,7 +18,7 @@ export default function AboutPage() {
         offers, and how much longer the device will get software updates.
       </p>
       <p>
-        Fix or Ditch pulls those together and gives a clear verdict, with every figure
+        Fix or Forget pulls those together and gives a clear verdict, with every figure
         on the table. We&apos;re deliberately a <strong>neutral referee</strong>:
         sometimes the tool says repair, sometimes it says replace. That&apos;s the
         point — a recommendation you can trust is one that isn&apos;t always trying to

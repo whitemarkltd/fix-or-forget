@@ -1,4 +1,4 @@
-# Project Spec: "Fix or Ditch" — Repair-vs-Replace Decision Tool
+# Project Spec: "Fix or Forget" — Repair-vs-Replace Decision Tool
 
 ## 1. Product overview
 

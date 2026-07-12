@@ -23,7 +23,7 @@ export default function CheckPage({
   return (
     <div className="mx-auto max-w-4xl px-4 py-10">
       <div className="mb-6 text-center">
-        <h1 className="text-2xl font-bold tracking-tight">Fix or ditch?</h1>
+        <h1 className="text-2xl font-bold tracking-tight">Fix or forget?</h1>
         <p className="mt-1 text-ink/60">Five taps to a straight answer.</p>
       </div>
       <Suspense>

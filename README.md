@@ -1,4 +1,4 @@
-# Fix or Ditch
+# Fix or Forget
 
 A free, static web tool that answers one question: **is my broken phone or
 laptop worth repairing, or should I replace it?**
@@ -171,6 +171,6 @@ math, update the tests.
 
 ## License / disclaimer
 
-Fix or Ditch is an informational guide, not a repair service. All prices are
+Fix or Forget is an informational guide, not a repair service. All prices are
 estimates; users should confirm with a real quote. Affiliate relationships never
 influence a verdict.

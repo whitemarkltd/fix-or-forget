@@ -4,14 +4,14 @@ import { Prose } from "@/components/Prose";
 export const metadata: Metadata = {
   title: "Privacy",
   description:
-    "Fix or Ditch collects no accounts and uses privacy-friendly, cookieless analytics.",
+    "Fix or Forget collects no accounts and uses privacy-friendly, cookieless analytics.",
 };
 
 export default function PrivacyPage() {
   return (
     <Prose title="Privacy">
       <p>
-        We built Fix or Ditch to be light on your data. There are no accounts, no
+        We built Fix or Forget to be light on your data. There are no accounts, no
         logins, and no advertising or tracking cookies — so there&apos;s no cookie
         consent banner to click through.
       </p>

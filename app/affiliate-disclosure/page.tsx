@@ -4,14 +4,14 @@ import { Prose } from "@/components/Prose";
 export const metadata: Metadata = {
   title: "Affiliate disclosure",
   description:
-    "How Fix or Ditch uses affiliate links, and our promise that they never influence a verdict.",
+    "How Fix or Forget uses affiliate links, and our promise that they never influence a verdict.",
 };
 
 export default function AffiliateDisclosurePage() {
   return (
     <Prose title="Affiliate disclosure">
       <p>
-        Fix or Ditch is free to use. To cover our costs, some of the outbound buttons
+        Fix or Forget is free to use. To cover our costs, some of the outbound buttons
         on our verdict and device pages are <strong>affiliate links</strong>. If you
         buy a refurbished device, order DIY repair parts, or trade in a device through
         one of them, we may earn a small commission at no extra cost to you.

@@ -1,8 +1,8 @@
 {
-  "name": "fix-or-ditch",
+  "name": "fix-or-forget",
   "version": "1.0.0",
   "private": true,
-  "description": "Fix or Ditch — a free repair-vs-replace decision tool for phones and laptops.",
+  "description": "Fix or Forget — a free repair-vs-replace decision tool for phones and laptops.",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

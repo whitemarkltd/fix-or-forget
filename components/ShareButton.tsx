@@ -11,7 +11,7 @@ export function ShareButton() {
     const url = typeof window !== "undefined" ? window.location.href : "";
     try {
       if (navigator.share) {
-        await navigator.share({ title: "Fix or Ditch verdict", url });
+        await navigator.share({ title: "Fix or Forget verdict", url });
         return;
       }
       await navigator.clipboard.writeText(url);
