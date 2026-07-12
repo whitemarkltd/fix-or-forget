@@ -34,7 +34,7 @@ export default function RootLayout({
         <header className="border-b border-black/5 bg-white">
           <div className="mx-auto flex max-w-4xl items-center justify-between px-4 py-3">
             <Link href="/" className="flex items-center gap-2 font-semibold">
-              <span aria-hidden className="text-accent">◑</span>
+              <span aria-hidden>🛠️</span>
               <span>{SITE_NAME}</span>
             </Link>
             <nav className="flex items-center gap-4 text-sm text-ink/70">
