@@ -12,6 +12,9 @@ export const metadata: Metadata = {
   },
   description:
     "A free, neutral tool that tells you whether your broken phone or laptop is worth repairing — with the full cost math shown.",
+  // Served as a static asset from /public so it isn't compiled into a route
+  // (next-on-pages requires non-static routes to run on the edge).
+  icons: { icon: "/icon.svg" },
   openGraph: {
     siteName: SITE_NAME,
     type: "website",

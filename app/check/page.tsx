@@ -9,6 +9,10 @@ export const metadata: Metadata = {
     "Answer a few quick questions and get a clear repair-or-replace verdict with the full cost math.",
 };
 
+// This page reads `searchParams` (deep-link prefill), so it renders on demand.
+// Cloudflare Pages (via next-on-pages) requires non-static routes to be edge.
+export const runtime = "edge";
+
 // Pre-fill support so SEO pages can deep-link into the wizard.
 export default function CheckPage({
   searchParams,
