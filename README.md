@@ -18,7 +18,7 @@ No database — [`/data`](./data) *is* the CMS.
 
 ```bash
 npm install
-cp .env.example .env.local   # optional — everything works with blanks
+cp .env.example .env.local   # optional — everythin works with blanks
 npm run dev                  # http://localhost:3000
 npm test                     # run the verdict-engine unit tests
 npm run build                # static production build
