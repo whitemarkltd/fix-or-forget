@@ -24,6 +24,11 @@ export interface Device {
   supportEndYear: number; // estimated last year of OS/security updates
   successorId: string | null; // for "or upgrade to..." suggestion
   notes: string; // free text shown on device page if present
+  /**
+   * Direct affiliate link to buy this device (Amazon). When set, it's the
+   * primary "replace" CTA; otherwise we fall back to a refurbished search URL.
+   */
+  amazonUrl?: string | null;
 }
 
 export interface Fault {

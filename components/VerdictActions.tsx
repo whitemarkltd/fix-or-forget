@@ -1,11 +1,11 @@
 import type { Device, Fault } from "@/data/types";
 import type { Verdict } from "@/lib/verdict";
 import {
-  refurbishedSearchUrl,
+  replacementUrl,
+  replacementLabel,
   diyPartsUrl,
   tradeInUrl,
   shopSearchUrl,
-  REFURB_MARKETPLACE_NAME,
 } from "@/lib/affiliates";
 import { AffiliateLink, AffiliateDisclosureNote } from "./AffiliateLink";
 
@@ -41,8 +41,8 @@ export function VerdictActions({
       )}
       {showReplace && (
         <div className="flex flex-wrap gap-3">
-          <AffiliateLink href={refurbishedSearchUrl(device)}>
-            See refurbished {device.name} on {REFURB_MARKETPLACE_NAME}
+          <AffiliateLink href={replacementUrl(device)}>
+            {replacementLabel(device)}
           </AffiliateLink>
           <AffiliateLink href={tradeInUrl(device)} variant="secondary">
             Trade in your broken one

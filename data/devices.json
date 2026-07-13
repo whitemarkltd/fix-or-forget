@@ -14,7 +14,8 @@
     },
     "supportEndYear": 2027,
     "successorId": "iphone-13",
-    "notes": ""
+    "notes": "",
+    "amazonUrl": "https://amzn.to/44mwYBr"
   },
   {
     "id": "iphone-13",
@@ -31,7 +32,8 @@
     },
     "supportEndYear": 2028,
     "successorId": "iphone-14",
-    "notes": ""
+    "notes": "",
+    "amazonUrl": "https://amzn.to/3R4K9E3"
   },
   {
     "id": "iphone-14",
@@ -48,7 +50,8 @@
     },
     "supportEndYear": 2029,
     "successorId": "iphone-15",
-    "notes": ""
+    "notes": "",
+    "amazonUrl": "https://amzn.to/44VU2XQ"
   },
   {
     "id": "iphone-15",
@@ -65,7 +68,8 @@
     },
     "supportEndYear": 2030,
     "successorId": null,
-    "notes": "USB-C charging port; parts availability still maturing."
+    "notes": "USB-C charging port; parts availability still maturing.",
+    "amazonUrl": "https://amzn.to/4fB8REn"
   },
   {
     "id": "galaxy-s21",
@@ -82,7 +86,8 @@
     },
     "supportEndYear": 2025,
     "successorId": "galaxy-s23",
-    "notes": "Samsung promised 4 years of OS + security updates from launch."
+    "notes": "Samsung promised 4 years of OS + security updates from launch.",
+    "amazonUrl": "https://amzn.to/3Txw02M"
   },
   {
     "id": "galaxy-s23",
@@ -99,7 +104,8 @@
     },
     "supportEndYear": 2031,
     "successorId": null,
-    "notes": "Samsung promises 4 OS + 5 years security updates from launch."
+    "notes": "Samsung promises 4 OS + 5 years security updates from launch.",
+    "amazonUrl": "https://amzn.to/3SWvPy4"
   },
   {
     "id": "pixel-7",
@@ -116,7 +122,8 @@
     },
     "supportEndYear": 2027,
     "successorId": "pixel-8",
-    "notes": ""
+    "notes": "",
+    "amazonUrl": "https://amzn.to/4pkGdvF"
   },
   {
     "id": "pixel-8",
@@ -133,7 +140,8 @@
     },
     "supportEndYear": 2030,
     "successorId": null,
-    "notes": "Google promises 7 years of OS + security updates from launch."
+    "notes": "Google promises 7 years of OS + security updates from launch.",
+    "amazonUrl": "https://amzn.to/4gAzsn4"
   },
   {
     "id": "macbook-air-m1",
@@ -150,7 +158,8 @@
     },
     "supportEndYear": 2028,
     "successorId": null,
-    "notes": "Fanless; still very capable. Battery replacement is glued and non-trivial."
+    "notes": "Fanless; still very capable. Battery replacement is glued and non-trivial.",
+    "amazonUrl": "https://amzn.to/4feFJ5B"
   },
   {
     "id": "macbook-pro-14-2021",
@@ -167,7 +176,8 @@
     },
     "supportEndYear": 2029,
     "successorId": null,
-    "notes": "M1 Pro/Max. High refurbished value keeps most repairs worthwhile."
+    "notes": "M1 Pro/Max. High refurbished value keeps most repairs worthwhile.",
+    "amazonUrl": "https://amzn.to/4ftqAyt"
   },
   {
     "id": "thinkpad-x1-carbon-gen9",
@@ -184,7 +194,8 @@
     },
     "supportEndYear": 2029,
     "successorId": null,
-    "notes": "Excellent repairability and parts availability; Windows 11 supported."
+    "notes": "Excellent repairability and parts availability; Windows 11 supported.",
+    "amazonUrl": "https://amzn.to/4vUWU32"
   },
   {
     "id": "dell-xps-13-9310",
@@ -201,7 +212,8 @@
     },
     "supportEndYear": 2028,
     "successorId": null,
-    "notes": ""
+    "notes": "",
+    "amazonUrl": "https://amzn.to/3TvCnni"
   },
   {
     "id": "iphone-11",
@@ -218,7 +230,8 @@
     },
     "supportEndYear": 2026,
     "successorId": "iphone-12",
-    "notes": ""
+    "notes": "",
+    "amazonUrl": "https://amzn.to/3RbDMP5"
   },
   {
     "id": "iphone-15-pro",
@@ -235,7 +248,8 @@
     },
     "supportEndYear": 2030,
     "successorId": null,
-    "notes": ""
+    "notes": "",
+    "amazonUrl": "https://amzn.to/4yjXM2G"
   },
   {
     "id": "iphone-16",
@@ -252,7 +266,8 @@
     },
     "supportEndYear": 2031,
     "successorId": null,
-    "notes": ""
+    "notes": "",
+    "amazonUrl": "https://amzn.to/4vnjqkd"
   },
   {
     "id": "iphone-16-pro",
@@ -269,7 +284,8 @@
     },
     "supportEndYear": 2031,
     "successorId": null,
-    "notes": ""
+    "notes": "",
+    "amazonUrl": "https://amzn.to/4fxxkeI"
   },
   {
     "id": "iphone-se-2022",
@@ -286,7 +302,8 @@
     },
     "supportEndYear": 2028,
     "successorId": null,
-    "notes": "LCD screen keeps screen repairs cheap; small battery."
+    "notes": "LCD screen keeps screen repairs cheap; small battery.",
+    "amazonUrl": "https://amzn.to/4bHrk0z"
   },
   {
     "id": "galaxy-s22",
@@ -303,7 +320,8 @@
     },
     "supportEndYear": 2027,
     "successorId": "galaxy-s23",
-    "notes": "4 OS + 5 years security updates from launch."
+    "notes": "4 OS + 5 years security updates from launch.",
+    "amazonUrl": "https://amzn.to/4vshO8C"
   },
   {
     "id": "galaxy-s24",
@@ -320,7 +338,8 @@
     },
     "supportEndYear": 2031,
     "successorId": null,
-    "notes": "7 years of OS + security updates from launch."
+    "notes": "7 years of OS + security updates from launch.",
+    "amazonUrl": "https://amzn.to/4wzv10j"
   },
   {
     "id": "galaxy-a54",
@@ -337,7 +356,8 @@
     },
     "supportEndYear": 2027,
     "successorId": null,
-    "notes": "Mid-range; 4 years of security updates."
+    "notes": "Mid-range; 4 years of security updates.",
+    "amazonUrl": "https://amzn.to/44qPOaC"
   },
   {
     "id": "galaxy-z-flip-5",
@@ -354,7 +374,8 @@
     },
     "supportEndYear": 2028,
     "successorId": null,
-    "notes": "Foldable — inner-screen repairs are expensive and specialist."
+    "notes": "Foldable — inner-screen repairs are expensive and specialist.",
+    "amazonUrl": "https://amzn.to/4aQxIm1"
   },
   {
     "id": "pixel-6a",
@@ -371,7 +392,8 @@
     },
     "supportEndYear": 2027,
     "successorId": null,
-    "notes": "5 years of security updates from launch."
+    "notes": "5 years of security updates from launch.",
+    "amazonUrl": "https://amzn.to/4wKET7P"
   },
   {
     "id": "pixel-9",
@@ -405,7 +427,8 @@
     },
     "supportEndYear": 2028,
     "successorId": null,
-    "notes": "4 OS + 5 years security updates."
+    "notes": "4 OS + 5 years security updates.",
+    "amazonUrl": "https://amzn.to/4eZTpCB"
   },
   {
     "id": "nothing-phone-2",
@@ -422,7 +445,8 @@
     },
     "supportEndYear": 2027,
     "successorId": null,
-    "notes": "3 OS + 4 years security updates."
+    "notes": "3 OS + 4 years security updates.",
+    "amazonUrl": "https://amzn.to/4aRLXXH"
   },
   {
     "id": "macbook-air-m2",
@@ -439,7 +463,8 @@
     },
     "supportEndYear": 2030,
     "successorId": null,
-    "notes": ""
+    "notes": "",
+    "amazonUrl": "https://amzn.to/4gAIJvf"
   },
   {
     "id": "macbook-air-m3",
@@ -456,7 +481,8 @@
     },
     "supportEndYear": 2032,
     "successorId": null,
-    "notes": ""
+    "notes": "",
+    "amazonUrl": "https://amzn.to/3T1HVpu"
   },
   {
     "id": "macbook-pro-16-2021",
@@ -473,7 +499,8 @@
     },
     "supportEndYear": 2029,
     "successorId": null,
-    "notes": "M1 Pro/Max; high refurb value keeps most repairs worthwhile."
+    "notes": "M1 Pro/Max; high refurb value keeps most repairs worthwhile.",
+    "amazonUrl": "https://amzn.to/3QNNZkU"
   },
   {
     "id": "dell-xps-15-9520",

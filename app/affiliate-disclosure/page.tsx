@@ -22,7 +22,14 @@ export default function AffiliateDisclosurePage() {
         <li>We show links for <em>both</em> outcomes — repair and replacement — so we&apos;re not incentivised to push you toward the pricier one.</li>
         <li>Every affiliate link is marked with <code>rel=&quot;sponsored nofollow&quot;</code> and labelled near the button.</li>
       </ul>
-      <h2>Who we may link to</h2>
+      <h2>Amazon Associates</h2>
+      <p>
+        Fix or Forget is a participant in the Amazon Associates Program.{" "}
+        <strong>As an Amazon Associate we earn from qualifying purchases.</strong>{" "}
+        When a verdict recommends replacing a device, the &quot;Buy&quot; button may
+        link to that product on Amazon.
+      </p>
+      <h2>Who else we may link to</h2>
       <p>
         Refurbished marketplaces (such as Back Market or Amazon Renewed), DIY parts
         suppliers (such as iFixit), and trade-in / buyback services. The specific

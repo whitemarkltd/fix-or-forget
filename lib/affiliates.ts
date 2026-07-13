@@ -31,6 +31,23 @@ function q(...parts: (string | number | null | undefined)[]): string {
   return encodeURIComponent(parts.filter(Boolean).join(" "));
 }
 
+/**
+ * Primary "replace" CTA destination. Prefers a device's direct Amazon affiliate
+ * link (set in devices.json) and falls back to a refurbished marketplace search
+ * when there isn't one.
+ */
+export function replacementUrl(device: Device): string {
+  const direct = device.amazonUrl?.trim();
+  return direct || refurbishedSearchUrl(device);
+}
+
+/** Button label matching replacementUrl's destination. */
+export function replacementLabel(device: Device): string {
+  return device.amazonUrl?.trim()
+    ? `Buy the ${device.name} on Amazon`
+    : `See refurbished ${device.name} on ${REFURB_MARKETPLACE_NAME}`;
+}
+
 /** Refurbished replacement search — Back Market (default) or Amazon Renewed. */
 export function refurbishedSearchUrl(device: Device): string {
   const query = q(device.brand, device.name);
